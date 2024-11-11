@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @migueljano
+- 👋 Hi, I’m @migueljanos
 - 👀 I’m interested in to be happy
 - 🌱 I’m currently learning CSS
 - 💞️ I’m looking to collaborate on ...
